@@ -1,0 +1,5 @@
+---,WeaponType,ElementalType,BaseDamage
+NewRow,Sword,Physical,4
+NewRow_0,Axe,Fire,4
+1,Bow,Ice,4
+2,Staff,Candy,4
