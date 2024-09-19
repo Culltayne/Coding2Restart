@@ -1,5 +1,5 @@
----,WeaponType,ElementalType,BaseDamage
-NewRow,Sword,Physical,4
-NewRow_0,Axe,Fire,4
-1,Bow,Ice,4
-2,Staff,Candy,4
+---,WeaponType,ElementalType,BaseDamage,Mesh
+1,"Sword","Physical","4","/Script/Engine.StaticMesh'/Game/PolygonStarter/Models/SM_PolygonPrototype_Prop_Sword_01.SM_PolygonPrototype_Prop_Sword_01'"
+2,"Axe","Fire","4","/Script/Engine.StaticMesh'/Game/PolygonKnights/Meshes/Weapons/SM_Wep_Halberd_01.SM_Wep_Halberd_01'"
+3,"Bow","Ice","4","/Script/Engine.StaticMesh'/Game/PolygonStarter/Models/SM_Wep_Watergun_02.SM_Wep_Watergun_02'"
+4,"Staff","Candy","4","/Script/Engine.StaticMesh'/Game/PolygonKnights/Meshes/Weapons/SM_Wep_Zweihander_01.SM_Wep_Zweihander_01'"
